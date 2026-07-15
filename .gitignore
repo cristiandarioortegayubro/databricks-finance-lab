@@ -1,0 +1,37 @@
+# Databricks notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Databricks specific
+.databricks/
+*.dbutils
+
+# Large data files (keep datasets in Unity Catalog)
+*.csv
+*.parquet
+*.json
+*.xlsx
+*.xls
+
+# Images (upload manually to GitHub)
+Imagenes/
+*.jpg
+*.png
+*.gif
+*.svg
