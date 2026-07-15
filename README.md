@@ -72,11 +72,18 @@ Integración de IA en análisis financiero
 
 ---
 
-## 👨‍🏫 Instructor
+## 👨‍🏫 Instructores
 
-**Cristian Ortega**  
+**Cristian Darío Ortega Yubro**  
 Universidad del Aconcagua  
-cortega@uda.edu.ar
+- cortega@uda.edu.ar
+- https://www.linkedin.com/in/cristiandarioortegayubro/
+
+
+**Gustavo Raúl Machin Urbay**  
+Universidad del Aconcagua  
+- gustavomachin@uda.edu.ar
+- https://www.linkedin.com/in/gustavomachinurbay/
 
 ---
 
