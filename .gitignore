@@ -28,10 +28,3 @@ Thumbs.db
 *.json
 *.xlsx
 *.xls
-
-# Images (upload manually to GitHub)
-Imagenes/
-*.jpg
-*.png
-*.gif
-*.svg
